@@ -18,4 +18,4 @@ sequence of characters which reads the same backward as forward, such as madam o
 
 **For Part I** : https://github.com/deepcloudlabs/stream-api-exercises-part1.git
 
-**For Part II** : https://github.com/deepcloudlabs/stream-api-exercises-part1.git
+**For Part II** : https://github.com/deepcloudlabs/stream-api-exercises-part2.git
