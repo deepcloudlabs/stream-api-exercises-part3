@@ -15,3 +15,7 @@ sequence of characters which reads the same backward as forward, such as madam o
 **Q.6)** Find the words starting with the letter **a**, and ends with the letter **z**.
 
 **Q.7)** Find the longest word in the dictionary
+
+**For Part I** : https://github.com/deepcloudlabs/stream-api-exercises-part1.git
+
+**For Part II** : https://github.com/deepcloudlabs/stream-api-exercises-part1.git
